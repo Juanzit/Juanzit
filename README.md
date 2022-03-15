@@ -8,5 +8,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-Most Used Languages 
-<a><img src="Python.png"></a>
+Most Used Languages <br>
+<a><img src="Python.png" width="20" height="20"></a>
