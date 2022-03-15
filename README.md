@@ -10,3 +10,8 @@
 - ⚡ Fun fact: ...<br>
 Most Used Languages <br>
 <a><img src="Python.png" width="40" height="40"></a>
+
+Linkedln<br>
+linkedin.com/in/juan-garcia-1507b0234<br>
+E-mail<br>
+juansilvagarcia11037@gmail.com<br>
