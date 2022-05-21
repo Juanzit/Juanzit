@@ -1,9 +1,9 @@
-### Hi there 👋 My name is Juan
+### Olá eu sou Juan Silva , estudante universitário Instituto Federal de educação,ciência e tecnologia do Sudeste de Minas Gerais(IFRP).
 
-- 🔭 I’m currently working on 
+- 🔭 Hoje trabalho com Backend
 - 🌱 I’m currently learning Data Science, Machine learning and neural network.
 - 👯 I’m looking to collaborate on new projects
-- 📫 How to reach me:
+- 📫 How to reach me:<br>
   Linkedln<br>
   www.linkedin.com/in/juan-garcia-1507b0234<br>
   E-mail<br>
