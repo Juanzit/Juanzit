@@ -8,6 +8,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...<br>
+I was a participant in the roadmapython project 
+Github https://github.com/RoadMapPython
+
 Most Used Languages <br>
 <a><img src="Python.png" width="40" height="40"></a>
 
