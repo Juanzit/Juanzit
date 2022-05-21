@@ -4,7 +4,7 @@
 - 🌱 Estou atualmente aprendendo Data Science, Machine learning and neural network.
 - 👥 Estou procurando colaborar em novos projetos.
 - 😄 Pronomes: Ele/Dele.
-- 👨‍💻 Projetos em que participei:
+- 👨‍💻 Projetos em que participei:<br>
   RoadmapPython https://github.com/RoadMapPython
 - 📫 Como me achar: <br>
   Linkedln<br>
