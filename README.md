@@ -1,7 +1,7 @@
 ### Olá eu sou Juan Silva , estudante universitário Instituto Federal de educação,ciência e tecnologia do Sudeste de Minas Gerais(IFRP).
 
-- 🔭 Hoje trabalho com Backend.
-- 🌱 Estou atualmente aprendendo Data Science, Machine learning e redes neurais.
+- Foco em desenvolvimento de software, utilizando Python e React Native. 
+- Atento aos detalhes e sempre disposto a aprender novas tecnologias.
 - 👥 Estou procurando colaborar em novos projetos.
 - 😄 Pronomes: Ele/Dele.
 - 👨‍💻 Projetos em que participei:<br>
