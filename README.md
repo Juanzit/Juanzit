@@ -5,7 +5,7 @@
 - 👥 Estou procurando colaborar em novos projetos.
 - 😄 Pronomes: Ele/Dele.
 - 👨‍💻 Projetos em que participei:<br>
-  RoadmapPython https://github.com/RoadMapPython
+  RoadmapPython https://github.com/RoadMapPython<br>
   Minicurso ReactNative- /*Link em construção*/
 - 📫 Como me achar: <br>
   Linkedln<br>
