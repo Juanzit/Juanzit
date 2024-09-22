@@ -15,5 +15,7 @@
 
 
 Most Used Languages <br>
-<a><img src="Python.png" width="40" height="40"></a>
+<a><img src="python.png" width="40" height="40"></a>
+<a><img src="r.png" width="40" height="40"></a>
+<a><img src="react.png" width="40" height="40"></a>
 
