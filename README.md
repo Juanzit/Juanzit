@@ -6,7 +6,7 @@
 - 😄 Pronomes: Ele/Dele.
 - 👨‍💻 Projetos em que participei:<br>
   RoadmapPython https://github.com/RoadMapPython<br>
-  Minicurso ReactNative- /*Link em construção*/
+  Minicurso ReactNative- https://www.youtube.com/@CURSORNFIRP
 - 📫 Como me achar: <br>
   Linkedln<br>
   www.linkedin.com/in/juan-garcia-1507b0234<br>
