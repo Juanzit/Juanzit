@@ -8,6 +8,7 @@
   RoadmapPython https://github.com/RoadMapPython<br>
   Minicurso ReactNative- https://www.youtube.com/@CURSORNFIRP
   Site Labclin: https://labclinsaude.com/
+  ShapemeApp: https://github.com/GustavoMatoi/SMAAluno https://github.com/GustavoMatoi/smaProfessorV2
 - 📫 Como me achar: <br>
   Linkedln<br>
   www.linkedin.com/in/juan-garcia-1507b0234<br>
