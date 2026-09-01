@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou um entusiasta da tecnologia focado em **Desenvolvimento Mobile** e **Educação**. Atualmente, atuo como **Desenvolvedor Mobile Jr.** em projetos de extensão acadêmica e como **Professor Tutor na Kodland**, ensinando programação (Python, Lua/Roblox) para jovens.
+Sou um entusiasta da tecnologia focado em **Desenvolvimento Mobile** e **Educação**. Atualmente, atuo como **Desenvolvedor Mobile Jr.** em projetos de extensão acadêmica e como **Professor Tutor na Kodland e na CNA Digital School** , ensinando programação para jovens.
 
 - 🎓 Graduando em **Ciência da Computação** (IFRP).
 - 💼 Experiência com **React Native**, **Firebase** e metodologias ágeis.
